@@ -21,7 +21,7 @@ Snick-Inn is a premier online shoe store built using React, offering a wide rang
 - **Styling**: CSS-in-JS for easy and maintainable styling solutions.
     ## In Progress
     - **Payment Processing**: Integrated secure payment processing for a seamless checkout experience.
-    - **Order Tracking**: Real-time order tracking functionality to keep customers informed.
+  
 ## Getting started
  - Clone this repository to your local machine.
  - Run `npm install` to install the necessary dependencies.
